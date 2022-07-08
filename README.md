@@ -8,7 +8,7 @@ A website that offers marketing services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://thiago-nasciutti.github.io/challenge1/
 
 ## Contribution
 Made with ❤️ by [Thiago]
